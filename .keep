@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+    <title>About Vyshnavi</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                line-height: 1.6;
+                margin: 20px;
+                background-color: beige;
+            }
+            h1, h2 {
+                color: #560202;
+            }
+            
+            li {
+                margin-bottom: 10px;
+            }
+            a {
+                color: #037b3f;
+                text-decoration: underline;
+            }
+            a:hover {
+                color: blue;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>About Me</h1>
+        <p>Hello! My name is Vyshnavi. I am a student at Indian Institute of Science Education and Research, Thiruvananthapuram.</p>
+        <p> I'm majoring in Physics with a minor in Earth Sciences.</p>
+        <p>This summer I planned on learning technical skills and i am working on it.</p>
+        <p>I love learning new stuff and talking to people. </p>
+        <hr>
+        <h2>Academic Information</h2>
+        <ul>
+            <li>I am interested in interdisciplinary aspects of Physics like Biophysics,Atmospheric and Geophysics</li>
+            <li>I am currently pursuing an intership at IIST on 'Data analysis of Lidar Ceilometer'</li>
+            <li>I want to make a path in experimental physics.</li> 
+        </ul>
+            <hr>
+    <h2>My Hobbies and interests</h2>
+        <ul>
+            <li>I have always been Dancing</li>
+            <li>I like to fill my spaces with craft and design</li>
+            <li>I love Exploring nature and wish to travel more.</li>
+        </ul>
+<img src="https://sm.ign.com/t/ign_in/video/m/moana-2-of/moana-2-official-were-back-clip_8ras.1280.jpg" alt="One of my favorite characters" width="260" height="150">
+        <p>One of my favorite characters is Moana from the Disney movie "Moana". I admire her adventurous spirit and determination to explore the ocean and discover her true identity.</p>
+        <hr>
+        <h2>Contact Information</h2>
+        <ul>
+            <li>Email: <a href="mailto:chamarty23@iisertvm.ac.in"> 
+              Click here to mail me
+            </a>
+            <li> Phone: 11********</li>
+            <li> Linkedin:<a href="https://www.linkedin.com"> 
+                Click here to connect with me on linkedin
+            </a> </li>
+    </body>
+</html>
